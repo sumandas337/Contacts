@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/contact_root_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/blue_5768e9"
+        android:minHeight="?attr/actionBarSize" />
+
+    <ImageView
+        android:id="@+id/profile_picture"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/toolbar"
+        android:src="@drawable/empty_image_placeholder_large" />
+
+    <domain.com.contacts.utils.FontTextView
+        android:id="@+id/contact_name"
+        android:layout_below="@id/profile_picture"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/black_100"
+        android:textSize="20sp"
+        tools:text="Patrick Keenan"
+        app:custom_font="Averta-ExtraBold.ttf"/>
+    <ImageView
+        android:id="@+id/favorite_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_toLeftOf="@id/contact_name"
+        android:layout_below="@id/profile_picture"
+        app:srcCompat="@drawable/ic_favorite_black_24dp" />
+
+    <domain.com.contacts.utils.FontTextView
+        android:id="@+id/contact_phone_number"
+        android:layout_below="@id/contact_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/black_100"
+        android:textSize="16sp"
+        tools:text="+91-9742136538"
+        app:custom_font="Roboto-Medium.ttf"/>
+
+    <ImageView
+        android:id="@+id/phone_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_toLeftOf="@id/contact_phone_number"
+        android:layout_below="@id/contact_name"
+        android:tint="@color/color_primary_dark"
+        app:srcCompat="@drawable/ic_call_black_24dp" />
+
+
+    <domain.com.contacts.utils.FontTextView
+        android:id="@+id/contact_email"
+        android:layout_below="@id/contact_phone_number"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/black_100"
+        android:textSize="16sp"
+        tools:text="suman.das@treebohotels.com"
+        app:custom_font="Roboto-Medium.ttf"/>
+
+    <ImageView
+        android:id="@+id/email_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_toLeftOf="@id/contact_email"
+        android:layout_below="@id/contact_phone_number"
+        android:tint="@color/color_primary_dark"
+        app:srcCompat="@drawable/ic_email_black_24dp" />
+
+
+</RelativeLayout>

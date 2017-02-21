@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="transparent" type="color">#00FFFFFF</item>
+
+    <!-- Theme -->
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color_emerald">#099e44</color>
+    <color name="color_primary">#099e44</color>
+    <color name="color_primary_dark">#212121</color>
+    <color name="color_primary_light">#C8E6C9</color>
+    <color name="hotel_list_heading">#262626</color>
+    <color name="color_accent">#8BC34A</color>
+    <color name="color_primary_text">#212121</color>
+    <color name="color_secondary_text">#727272</color>
+    <color name="color_icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="toolbar_past_view_color">#B7B7B7</color>
+    <color name="new_green_prowl">#7abd31</color>
+    <color name="prowl_bg">#f0f0f0</color>
+    <color name="portfolio_background">#F2F2F2</color>
+    <color name="commmunal_area_unselected_text">#f3f3f3</color>
+    <color name="green_outer_pbar">#BBE3C8</color>
+
+
+    <item name="color_dark_green" type="color">#099e44</item>
+    <item name="white" type="color">#FFFFFF</item>
+    <item name="white_2" type="color">#8AFFFFFF</item>
+    <item name="white_opaque" type="color">#4DFFFFFF</item>
+    <item name="white_opaque_80" type="color">#CCFFFFFF</item>
+    <item name="black" type="color">#333</item>
+    <item name="grey" type="color">#AAA</item>
+    <item name="grey_span" type="color">#878787</item>
+    <item name="light_grey" type="color">#F5F5F5</item>
+    <item name="dark_grey" type="color">#808080</item>
+    <item name="light_red" type="color">#FFCCCD</item>
+    <item name="red" type="color">#DD4B39</item>
+    <item name="grey_green" type="color">#DCEDC8</item>
+    <item name="ocean_green" type="color">#009688</item>
+    <item name="dark_green" type="color">#558B2F</item>
+    <item name="light_green" type="color">#99FF99</item>
+    <item name="blue" type="color">#0288D1</item>
+    <item name="dark_blue" type="color">#282B3A</item>
+    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+    <color name="medium_grey" type="color">#F5F2FD</color>
+    <color name="Dark_orange" type="color">#F7941E</color>
+    <color name="btn_delete_color" type="color">#e87d74</color>
+    <item name="grey_coordinator" type="color">#ededed</item>
+
+    <!-- Text colours -->
+    <!-- Black -->
+    <color name="black_100">#000000</color>
+    <!-- 87% alpha -->
+    <color name="black_87">#DE000000</color>
+
+    <!-- 54% alpha -->
+    <color name="black_54">#8a000000</color>
+
+    <!-- Grey -->
+    <color name="grey_200">#eeeeee</color>
+    <color name="grey_400">#bdbdbd</color>
+    <color name="tertiary_grey">#9B9B9B</color>
+    <color name="quaternary_grey">#E0E0E0</color>
+
+
+    <item name="green" type="color">#20b4a1</item>
+    <item name="orange" type="color">#f06730</item>
+    <item name="background" type="color">#f6f6f6</item>
+
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="half_black">#808080</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+
+    <color name="editText_color">#f0f0f0</color>
+    <color name="seleccted_hotel_color">#8CC63F</color>
+
+    <color name="group_title">#8cc63f</color>
+    <color name="group_item_text_colour">#777777</color>
+    <color name="severity_text_color">#8cc63f</color>
+    <color name="daily_inspection_parent_text_color">#b1b1b1</color>
+    <color name="daliiy_inspection_parent_background_color">#f4f4f4</color>
+    <color name="daily_inspection_subhead_color">#777777</color>
+    <color name="hotel_popup_background_color">#EDEDEC</color>
+    <color name="hotel_popup_textcolor">#acacac</color>
+    <color name="date_Text_color">#4f7818</color>
+    <color name="incentive_text_color">#8e8e8e</color>
+
+    <color name="yellow">#EFB90B</color>
+    <color name="missed_tasks_color">#6F31E0</color>
+    <color name="tab_text_color_unselected">#acacac</color>
+    <color name="tab_text_color_selected">#777777</color>
+    <color name="severe_layout_color">#e87d74</color>
+    <color name="grey_date">#F4F4F4</color>
+    <color name="note_stroke">#33404b</color>
+    <color name="note_background">#a5b2bd</color>
+    <color name="overview_bg">#f2f2f2</color>
+
+    <color name="textColorWhite">#ffffff</color>
+    <color name="bg_grey_light">#f2f2f2</color>
+    <color name="body_text_2">#595959</color>
+    <color name="qa_yellow">#df8d00</color>
+    <color name="qa_red">#b90000</color>
+    <color name="qa_green">#099e44</color>
+    <color name="color_gray">#727272</color>
+    <color name="alto_gray">#d9d9d9</color>
+    <color name="gray_radio_bg">#f6f6f6</color>
+    <color name="darkGrey">#595959</color>
+
+    <color name="color_text_hotel">#7AC230</color>
+    <color name="color_text_hotel_subheading">#4A8103</color>
+    <color name="gray_line">#dadada</color>
+    <color name="lighter_gray_line">#f4f4f4</color>
+    <color name="red_press">#990000</color>
+    <color name="blue_press">#000099</color>
+    <color name="new_gray_prowl">#9d9d9d</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="splash_scren_text">#e8e8e8</color>
+    <color name="emerald">#099e44</color>
+    <color name="warm_grey">#878787</color>
+    <color name="empty_line">#e0e0e0</color>
+    <color name="coral">#ff4343</color>
+    <color name="row_header_text">#9b9b9b</color>
+    <color name="black_57">#91000000</color>
+    <color name="add_photo_background">#f2f2f2</color>
+    <color name="botton_sheet_cross">#979797</color>
+    <color name="activity_gray_background">#F7F7F7</color>
+
+
+    <color name="divider_grey">#e0e0e0</color>
+    <color name="divider_grey_opacity10">#1A979797</color>
+    <color name="divider_grey_opacity50">#80e0e0e0</color>
+    <color name="warm_grey_2">#9b9b9b</color>
+    <color name="black_212121">#212121</color>
+    <color name="white_two">#4AFFFFFF</color>
+    <color name="white_two_without_transparency">#ffffff</color>
+    <color name="white_70_opacity">#B3FFFFFF</color>
+    <color name="white_50_opacity">#80FFFFFF</color>
+    <color name="white_60_opacity">#99FFFFFF</color>
+    <color name="white_20_opacity">#33FFFFFF</color>
+    <color name="severity_medium">#e59b21</color>
+    <color name="new_emerald">#099eff</color>
+    <color name="light_green_bar">#BAE3C8</color>
+    <color name="gray_title">#e0e0e0</color>
+    <color name="text_color_gray">#878787</color>
+    <color name="greyish_brown">#4a4a4a</color>
+    <color name="stale_grey">#edf0f3</color>
+    <color name="black_zeplin">#212121</color>
+
+    <color name="blue_5768e9">#5768e9</color>
+    <color name="green_color_primary">#0eb550</color>
+    <color name="green_color_primary_50_opacity">#800eb550</color>
+    <color name="green_color_end_gradient">#11d05d</color>
+    <color name="green_ripple">#FF00FF65</color>
+    <color name="text_color_primary">#727171</color>
+    <color name="text_color_secondary">#9b9b9b</color>
+    <color name="title_text_secondary">#9e9e9e</color>
+
+    <color name="error_btn_color">#5768e9</color>
+    <color name="grey_toolbar">#f1f1f1</color>
+    <color name="card_activity_background">#121a3b</color>
+    <color name="grey_divider">#979797</color>
+    <color name="grey_divider_opacity5">#0D979797</color>
+    <color name="audit_warning">#8d93bb</color>
+
+    <color name="warning_red">#f44336</color>
+    <color name="warning_orange">#ff8a2c</color>
+    <color name="warning_yellow">#d1b413</color>
+
+    <color name="extra_information_layout_bg">#E6000000</color>
+
+    <color name="portfolio_dark_blue">#171d32</color>
+
+    <color name="text_faded">#5f6785</color>
+
+    <color name="severe_high">#f44336</color>
+    <color name="severe_medium">#ff6f00</color>
+    <color name="severe_low">#cba900</color>
+
+
+</resources>
